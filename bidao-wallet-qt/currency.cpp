@@ -8,7 +8,7 @@ currency::currency()
 
     coin *c2 = new coin();
     c2->set_name("Bidao Stable");
-    c2->set_name("BDS");
+    c2->set_name("BAI");
 
     this->available_currency.push_back(c1);
     this->available_currency.push_back(c2);
